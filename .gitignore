@@ -169,3 +169,5 @@ poetry.toml
 
 # ruff
 .ruff_cache/
+
+node_modules
